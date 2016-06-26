@@ -1,4 +1,4 @@
-Based on http://fullcalendar.io/ v2.6.1 -  JQuery plugin packaged for Meteor 1.0.
+Based on http://fullcalendar.io/ v2.8.1 -  JQuery plugin packaged for Meteor 1.x.x
 
 ### Instalation ###
 
@@ -14,7 +14,7 @@ Template:
         {{ > ReactiveFullcalendar options=calendarOptions }}
     </template>
 ```
-    
+
 Client JS:
 
 ```javascript
