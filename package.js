@@ -1,6 +1,7 @@
 Package.describe({
-  summary: "Meteor Reactive - Full-sized drag & drop event calendar (jQuery plugin - v2.1.1)",
-  version: "1.0.0",
+  name: 'nadeemjq:meteor-reactive-fullcalendar'
+  summary: "Meteor Reactive - Full-sized drag & drop event calendar (jQuery plugin - v2.8.1). Forked from gquemart:meteor-reactive-fullcalendar.",
+  version: "1.1.0",
   git: "https://github.com/gquemart/meteor-reactive-fullcalendar.git"
 });
 
